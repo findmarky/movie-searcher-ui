@@ -1,10 +1,12 @@
-# Movie Searcher
+# Movie Search
+
+A simple React app to consume [OMDb API](https://www.omdbapi.com/)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `REACT_APP_API_KEY=<OMDB-API-KEY> npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
